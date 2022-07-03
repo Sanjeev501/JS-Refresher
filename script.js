@@ -167,3 +167,5 @@ for (const ar of arr) {
 // setInterval(function hello() {
 //   console.log("Hello");
 // }, 2000);
+
+console.log("July 3rd");
