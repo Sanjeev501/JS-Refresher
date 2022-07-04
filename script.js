@@ -169,3 +169,4 @@ for (const ar of arr) {
 // }, 2000);
 
 console.log("July 3rd");
+console.log("Monday");
